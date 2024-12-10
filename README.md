@@ -1,5 +1,5 @@
 # Resume
-
+[PDF version](https://drive.google.com/file/d/1-_Me4VcVkFkSShjbeIgE5B0eR7RQbY9-/view?usp=sharing) - [LinkedIn](https://www.linkedin.com/in/gorkemb/)
 #### Technical Skills: Python, SQL, DAX, ETL, AWS
 
 ## Education
