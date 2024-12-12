@@ -25,17 +25,9 @@
 - Managed subject matter expert (SME) efforts in transitioning to GCdocs, enhancing document management efficiency across branches. (Skills: Change Management, Data Migration)
 - Successfully delivered 4 projects on time and within budget constraints, showcasing project management proficiency. (Skills: Project Planning, Resource Allocation)
 
-**Sr. Systems Analyst @ Turkish Motor Insurers’ Bureau - Istanbul (2021/04 – 2021/12)**
-Company Summary: TMTB oversees motor insurance regulation in Turkey, coordinating with insurers to manage policyholder rights and data.
-- Engineered an automation solution for the finance department's formal letter distribution process, managing over 12,000 documents annually and reducing manual handling by 45%. (Skills: Process Automation, Efficiency)
-- Spearheaded implementation of Microsoft Planner for workflow management, enhancing project tracking and team productivity. (Skills: Project Management, Collaborative Tools)
-- Achieved 12% reduction in operational costs through process improvements and automation. (Skills: Cost-Benefit Analysis).
-
 **Foreign Trade Specialist at Istanbul Exporters' Associations - Istanbul (2016/05 – 2021/03)**
 - Analyzed national export data using SQL, SAP and Trade Map to produce insightful reports for stakeholders. (Skills: Data Analysis, Data Visualization, Business Intelligence, Reporting, SQL)
 - Conducted market research and engaged with investors to organize trade fairs. (Skills: Market Research, Investor Relations, Event Coordination)
 - Collaborated with IT to deploy software solutions that enhanced operational efficiency and reduced completion times by 40%. (Skills: Process Improvement, Technical Collaboration)
 - Worked closely with the board of directors to provide expert-level knowledge and resolve complex queries. (Skills: Complex Query Resolution, Executive Communication, Strategic Insight)
 - Utilized SharePoint, Power BI and Excel for database management and report generation. (Skills: Reporting, Data Management)
-
-
