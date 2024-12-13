@@ -7,10 +7,13 @@
 
 ## Education
 - Grad. Certificate in Business Intelligence at Algonquin College (2022)   
-Capstone project: Conducted Exploratory Data Analysis (EDA) using Power BI, findings that influenced
-Agriculture and Agri-Food Canada’s (AAFC) hiring strategies.
+
+> Capstone project: Conducted Exploratory Data Analysis (EDA) using Power BI, findings that influenced Agriculture and Agri-Food Canada’s (AAFC) hiring strategies.
+
 - BSc in Actuarial Sciences at Hacettepe University (2013)   
-Capstone project: Predictive analytics using SPSS Modeler, using linear regression to calculate insurance premiums.
+
+> Capstone project: Predictive analytics using SPSS Modeler, using linear regression to calculate insurance premiums.
+
 
 ## Projects
 - [Exploratory Data Analysis and Model Training](https://github.com/LegateG/expdataanalysis) Python, numpy, scikit-learn, mathplotlib, model training 
