@@ -6,10 +6,10 @@
 - Results-driven Lead Data Analyst with 5+ years of experience in business analysis, data visualization, and process optimization. Proven expertise in leveraging advanced analytical tools, machine learning solutions, and data methodologies to drive business growth and inform strategic decisions. Proficient in collaborating with cross-functional teams to deliver data-driven projects and solutions.
 
 ## Education
-- Grad. Certificate in Business Intelligence at Algonquin College (2022)
+- Grad. Certificate in Business Intelligence at Algonquin College (2022)   
 Capstone project: Conducted Exploratory Data Analysis (EDA) using Power BI, findings that influenced
 Agriculture and Agri-Food Canada’s (AAFC) hiring strategies.
-- BSc in Actuarial Sciences at Hacettepe University (2013)
+- BSc in Actuarial Sciences at Hacettepe University (2013)   
 Capstone project: Predictive analytics using SPSS Modeler, using linear regression to calculate insurance premiums.
 
 ## Projects
