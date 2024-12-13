@@ -6,13 +6,10 @@
 - Results-driven Lead Data Analyst with 5+ years of experience in business analysis, data visualization, and process optimization. Proven expertise in leveraging advanced analytical tools, machine learning solutions, and data methodologies to drive business growth and inform strategic decisions. Proficient in collaborating with cross-functional teams to deliver data-driven projects and solutions.
 
 ## Education
-- Grad. Certificate in Business Intelligence at Algonquin College (2022)   
-
-> Capstone project: Conducted Exploratory Data Analysis (EDA) using Power BI, findings that influenced Agriculture and Agri-Food Canada’s (AAFC) hiring strategies.
-
-- BSc in Actuarial Sciences at Hacettepe University (2013)   
-
-> Capstone project: Predictive analytics using SPSS Modeler, using linear regression to calculate insurance premiums.
+- Grad. Certificate in Business Intelligence at Algonquin College (2022)<br>
+Capstone project: Conducted Exploratory Data Analysis (EDA) using Power BI, findings that influenced Agriculture and Agri-Food Canada’s (AAFC) hiring strategies.
+- BSc in Actuarial Sciences at Hacettepe University (2013)<br>
+Capstone project: Predictive analytics using SPSS Modeler, using linear regression to calculate insurance premiums.
 
 
 ## Projects
@@ -40,9 +37,9 @@ Company Summary: TMTB oversees motor insurance regulation in Turkey, coordinatin
 
 **Foreign Trade Specialist @ Istanbul Exporters' Associations (IEA) - Istanbul, TR (2016/05 – 2021/03)**
 Company Summary: IEA is a leading trade organization in Turkiye, providing insights and support to exporters across various industries.
-●	Analyzed national export data using SQL, SAP, and Trade Map, producing insightful reports for stakeholders, and applying data analysis, data visualization, and business intelligence skills. This resulted in a 25% increase in export sales and a 15% reduction in operational costs.
-●	Collaborated with IT to deploy software solutions, enhancing operational efficiency, and applying process improvement, technical collaboration, and problem-solving skills. This led to a 40% reduction in completion times and a 20% increase in user satisfaction.
-●	Conducted market research and engaged with investors, utilizing market research, investor relations, and event coordination skills to organize trade fairs. This resulted in a 40% increase in trade fair attendance.
+- Analyzed national export data using SQL, SAP, and Trade Map, producing insightful reports for stakeholders, and applying data analysis, data visualization, and business intelligence skills. This resulted in a 25% increase in export sales and a 15% reduction in operational costs.
+- Collaborated with IT to deploy software solutions, enhancing operational efficiency, and applying process improvement, technical collaboration, and problem-solving skills. This led to a 40% reduction in completion times and a 20% increase in user satisfaction.
+- Conducted market research and engaged with investors, utilizing market research, investor relations, and event coordination skills to organize trade fairs. This resulted in a 40% increase in trade fair attendance.
 
 **Certificates**
 - AWS Cloud Practitioner
