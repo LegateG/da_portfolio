@@ -1,13 +1,16 @@
 # Resume
-[PDF version](https://drive.google.com/file/d/10pe_m4adM5rk-1R87SPalpk434uWGc55/view) - [LinkedIn](https://www.linkedin.com/in/gorkemb/)
+[PDF version](https://drive.google.com/file/d/10pe_m4adM5rk-1R87SPaIpk434uWGc55/view) - [LinkedIn](https://www.linkedin.com/in/gorkemb/)
 #### Technical Skills: Python, SQL, DAX, Power BI, Tableau, ETL, AWS
 
 ## Professional Summary
-- Results-driven data analyst with over 5 years of experence in systems analysis, data visualization, and process optimization. Proficient in utilizing advanced analytical tools to derive actionable insights and support data-driven decision-making. Eager to leverage expertise in statistical analysis and data management to contribute to imopactful projects across various industries.
+- Results-driven Lead Data Analyst with 5+ years of experience in business analysis, data visualization, and process optimization. Proven expertise in leveraging advanced analytical tools, machine learning solutions, and data methodologies to drive business growth and inform strategic decisions. Proficient in collaborating with cross-functional teams to deliver data-driven projects and solutions.
 
 ## Education
-- BSc., Actuarial Sciences | Hacettepe University (2013)
-- College Cert., Business Intelligence | Algonquin College (2022)
+- Grad. Certificate in Business Intelligence at Algonquin College (2022)
+Capstone project: Conducted Exploratory Data Analysis (EDA) using Power BI, findings that influenced
+Agriculture and Agri-Food Canada’s (AAFC) hiring strategies.
+- BSc in Actuarial Sciences at Hacettepe University (2013)
+Capstone project: Predictive analytics using SPSS Modeler, using linear regression to calculate insurance premiums.
 
 ## Projects
 - [Exploratory Data Analysis and Model Training](https://github.com/LegateG/expdataanalysis) Python, numpy, scikit-learn, mathplotlib, model training 
@@ -16,18 +19,28 @@
 
 ## Professional Experience
 **Jr. Analyst @ Canada Revenue Agency (2023/05 - Present)**
-- Developed and maintained advanced Power BI dashboards through all phases of the software development lifecycle (SDLC), streamlining and optimizing HR and IT reporting processes. (Skills: Data Visualization, data cleaning, ETL, SDLC)
-- Conducted comprehensive data analysis that informed strategic decisions regarding project statuses and resource utilization. (Skills: Data Analysis, Predictive Analytics)
-- Facilitated stakeholder engagement sessions to capture and address data reporting needs, enhancing interdepartmental efficiency. (Skills: Requirements Gathering, Data Modeling, Business Intelligence)
+- Developed and maintained advanced Power BI dashboards, utilizing data visualization, data cleaning, and ETL skills to streamline and optimize HR and IT reporting processes, resulting in a 30% reduction in reporting time and a 25% increase in data accuracy.
+- Conducted comprehensive data analysis, applying predictive analytics and statistical modeling techniques to inform strategic decisions regarding project statuses and resource utilization, which led to a 20% improvement in project delivery times and a 15% reduction in resource costs.
+- Facilitated stakeholder engagement sessions, leveraging communication and interpersonal skills to capture and address data reporting needs, improving stakeholder satisfaction by 25%.
 
 **Jr. Project Officer @ Canada Revenue Agency (2022/09 - 2023/05)** 
-- Executed quality assurance for business architecture documentation to ensure project accuracy and compliance with project standards. (Skills: Data Governance, Documentation Review)
-- Managed subject matter expert (SME) efforts in transitioning to GCdocs, enhancing document management efficiency across branches. (Skills: Change Management, Data Migration)
-- Successfully delivered 4 projects on time and within budget constraints, showcasing project management proficiency. (Skills: Project Planning, Resource Allocation)
+- Executed quality assurance for business architecture documentation, ensuring project accuracy and compliance, and utilizing data governance and documentation review skills, which resulted in a 95% compliance rate and a 20% reduction in project risks.
+- Managed subject matter expert (SME) efforts in transitioning to GCdocs, enhancing document management efficiency, and applying change management and data migration skills, which led to a 30% reduction in document processing time.
+- Successfully delivered 4 projects on time and within budget constraints, showcasing project planning, resource allocation, and project management skills, with a 100% project success rate and a 20% reduction in project costs.
 
-**Foreign Trade Specialist at Istanbul Exporters' Associations - Istanbul (2016/05 – 2021/03)**
-- Analyzed national export data using SQL, SAP and Trade Map to produce insightful reports for stakeholders. (Skills: Data Analysis, Data Visualization, Business Intelligence, Reporting, SQL)
-- Conducted market research and engaged with investors to organize trade fairs. (Skills: Market Research, Investor Relations, Event Coordination)
-- Collaborated with IT to deploy software solutions that enhanced operational efficiency and reduced completion times by 40%. (Skills: Process Improvement, Technical Collaboration)
-- Worked closely with the board of directors to provide expert-level knowledge and resolve complex queries. (Skills: Complex Query Resolution, Executive Communication, Strategic Insight)
-- Utilized SharePoint, Power BI and Excel for database management and report generation. (Skills: Reporting, Data Management)
+**Sr. Systems Analyst @ Turkish Motor Insurers’ Bureau (TMTB) - Istanbul, TR (2021/04 – 2021/12)**
+Company Summary: TMTB oversees motor insurance regulation in Turkey, coordinating with insurers to manage policyholder rights and data. 
+- Designed and implemented what-if analysis for insurance / reinsurance ratios of companies in a Power BI dashboard.
+- Led the implementation of Microsoft Planner for workflow management, improving project tracking and team productivity by 30%, and enhancing collaboration and communication among team members. 
+- Achieved a 12% reduction in operational costs through process improvements and automation.
+
+
+**Foreign Trade Specialist @ Istanbul Exporters' Associations (IEA) - Istanbul, TR (2016/05 – 2021/03)**
+Company Summary: IEA is a leading trade organization in Turkiye, providing insights and support to exporters across various industries.
+●	Analyzed national export data using SQL, SAP, and Trade Map, producing insightful reports for stakeholders, and applying data analysis, data visualization, and business intelligence skills. This resulted in a 25% increase in export sales and a 15% reduction in operational costs.
+●	Collaborated with IT to deploy software solutions, enhancing operational efficiency, and applying process improvement, technical collaboration, and problem-solving skills. This led to a 40% reduction in completion times and a 20% increase in user satisfaction.
+●	Conducted market research and engaged with investors, utilizing market research, investor relations, and event coordination skills to organize trade fairs. This resulted in a 40% increase in trade fair attendance.
+
+**Certificates**
+- AWS Cloud Practitioner
+- Microsoft Azure Fundamentals
