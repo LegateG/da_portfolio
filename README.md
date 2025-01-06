@@ -3,7 +3,7 @@
 #### Technical Skills: Python, SQL, DAX, Power BI, Tableau, ETL, AWS
 
 ## Professional Summary
-- Results-driven Lead Data Analyst with 5+ years of experience in business analysis, data visualization, and process optimization. Proven expertise in leveraging advanced analytical tools, machine learning solutions, and data methodologies to drive business growth and inform strategic decisions. Proficient in collaborating with cross-functional teams to deliver data-driven projects and solutions.
+- Results-driven Data Analyst with 5+ years of experience in business analysis, data visualization, and process optimization. Proven expertise in leveraging advanced analytical tools, machine learning solutions, and data methodologies to drive business growth and inform strategic decisions. Proficient in collaborating with cross-functional teams to deliver data-driven projects and solutions.
 
 ## Education
 - Grad. Certificate in Business Intelligence at Algonquin College (2022)<br>
