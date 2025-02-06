@@ -15,7 +15,7 @@
 - Analyzing different aspects of Diabetes in the Pima tribe by doing Exploratory Data Analysis (EDA)
 - Skills/Tools: Python, numpy, scikit-learn, mathplotlib, model training and evaluation
 - 👨🏻‍💻[Jupyter Notebook](https://github.com/LegateG/EDA_Pima/) 
-![EDA_Pima](https://github.com/LegateG/EDA_Pima/blob/main/assets/img/cover_minimal.jpg)
+![EDA_Pima](/assets/img/eda_pima.jpg)
 ### Water Scarcity Around the Globe
 - Exploring the global water scarcity and its determinants by countries
 - Skills/Tools: Tableau, data prep, ETL
