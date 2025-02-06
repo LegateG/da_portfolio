@@ -7,7 +7,7 @@
 
 ## Projects
 - [Permanent Residency admission dashboard](https://app.fabric.microsoft.com/view?r=eyJrIjoiOWU0NGQ5ODQtYmE2NC00NzgwLTllYjEtYzQyNzI4YWQ1OGU0IiwidCI6IjdjMDFkZWNlLTcwNzUtNGM3OC04MWE0LWMyMGEyODYxMzlkZSIsImMiOjF9) MS Power BI, MS Fabric, MS Excel, DAX, ETL 
-- [Diabetes Analysis with Python](https://github.com/LegateG/expdataanalysis) Python, numpy, scikit-learn, mathplotlib, model training and evaluation
+- [EDA - Diabetes in Pima Tribe](https://github.com/LegateG/EDA_Pima/) Python, numpy, scikit-learn, mathplotlib, model training and evaluation
 - [Water Scarcity Around the Globe](https://public.tableau.com/app/profile/gorkem.bayar/viz/WaterScarcityAroundtheGlobe/Story) Tableau, data prep, ETL
 - HR Analytics for Agriculture and Agri-Food Canada (AAFC) - Exploratory Data Analysis (EDA), findings influenced AAFC's hiring strategies - Power BI
 - Predictive Analytics for Insurance Premium Calculation	- Linear regression model that predicts insurance premiums - IBM SPSS Modeler
