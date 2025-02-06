@@ -6,12 +6,27 @@
 - Results-driven Data Analyst with 5+ years of experience in business analysis, data visualization, and process optimization. Proven expertise in leveraging advanced analytical tools, machine learning solutions, and data methodologies to drive business growth and inform strategic decisions. Proficient in collaborating with cross-functional teams to deliver data-driven projects and solutions.
 
 ## Projects
-- [Permanent Residency admission dashboard](https://app.fabric.microsoft.com/view?r=eyJrIjoiOWU0NGQ5ODQtYmE2NC00NzgwLTllYjEtYzQyNzI4YWQ1OGU0IiwidCI6IjdjMDFkZWNlLTcwNzUtNGM3OC04MWE0LWMyMGEyODYxMzlkZSIsImMiOjF9) MS Power BI, MS Fabric, MS Excel, DAX, ETL 
-- [EDA - Diabetes in Pima Tribe](https://github.com/LegateG/EDA_Pima/) Python, numpy, scikit-learn, mathplotlib, model training and evaluation
+### Permanent Residency Admissions
+- An interactive dashboard to discover Express Entry & Permanent Resident admission metrics categorically and by countries.
+- Skills/Tools: MS Power BI, MS Fabric, MS Excel, DAX, ETL
+- 📊[Dashboard](https://app.fabric.microsoft.com/view?r=eyJrIjoiOWU0NGQ5ODQtYmE2NC00NzgwLTllYjEtYzQyNzI4YWQ1OGU0IiwidCI6IjdjMDFkZWNlLTcwNzUtNGM3OC04MWE0LWMyMGEyODYxMzlkZSIsImMiOjF9)
+![PRA](/assets/img/PRA_cover.jpg)
+### Diabetes in the Pima Tribe
+- Analyzing different aspects of Diabetes in the Pima tribe by doing Exploratory Data Analysis (EDA)
+- Skills/Tools: Python, numpy, scikit-learn, mathplotlib, model training and evaluation
+- 👨🏻‍💻[Jupyter Notebook](https://github.com/LegateG/EDA_Pima/) 
 ![EDA_Pima](https://github.com/LegateG/EDA_Pima/blob/main/assets/img/cover_minimal.jpg)
-- [Water Scarcity Around the Globe](https://public.tableau.com/app/profile/gorkem.bayar/viz/WaterScarcityAroundtheGlobe/Story) Tableau, data prep, ETL
-- HR Analytics for Agriculture and Agri-Food Canada (AAFC) - Exploratory Data Analysis (EDA), findings influenced AAFC's hiring strategies - Power BI
-- Predictive Analytics for Insurance Premium Calculation	- Linear regression model that predicts insurance premiums - IBM SPSS Modeler
+### Water Scarcity Around the Globe
+- Exploring the global water scarcity and its determinants by countries
+- Skills/Tools: Tableau, data prep, ETL
+- 📉[Tableau Story](https://public.tableau.com/app/profile/gorkem.bayar/viz/WaterScarcityAroundtheGlobe/Story) 
+### HR Analytics for Agriculture and Agri-Food Canada (AAFC)
+- Conducted Exploratory Data Analysis (Capstone project for grad. certificate in business intelligence)
+- Findings influenced AAFC's hiring strategies
+- Skills/Tools: MS Power BI, MS Fabric, MS Excel, DAX, ETL
+### Predictive Analytics for Insurance Premium Calculation
+- Linear regression model that predicts insurance premiums (Capstone project for BSc. in actuarial sciences)
+- Skills/Tools:IBM SPSS Modeler
 
 ## Professional Experience
 **Jr. Analyst @ Canada Revenue Agency - Toronto, ON (May 2023 - Present)**
