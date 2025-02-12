@@ -9,7 +9,7 @@
 ### Permanent Residency Admissions
 - An interactive dashboard to discover Express Entry & Permanent Resident admission metrics categorically and by countries.
 - Skills/Tools: MS Power BI, MS Fabric, MS Excel, DAX, ETL
-- 📊[Dashboard](https://app.fabric.microsoft.com/view?r=eyJrIjoiOWU0NGQ5ODQtYmE2NC00NzgwLTllYjEtYzQyNzI4YWQ1OGU0IiwidCI6IjdjMDFkZWNlLTcwNzUtNGM3OC04MWE0LWMyMGEyODYxMzlkZSIsImMiOjF9)
+- 📊[Dashboard](https://github.com/LegateG/IRCC-PRA/)
 ![PRA](/assets/img/PRA_cover.jpg)
 ### Diabetes in the Pima Tribe
 - Analyzing different aspects of Diabetes in the Pima tribe by doing Exploratory Data Analysis (EDA)
