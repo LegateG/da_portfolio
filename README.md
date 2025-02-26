@@ -3,7 +3,7 @@
 #### Technical Skills: Python, SQL, DAX, Power BI, Tableau, ETL, AWS
 
 ## Professional Summary
-- Results-driven Data Analyst with 5+ years of experience in business analysis, data visualization, and process optimization. Proven expertise in leveraging advanced analytical tools, machine learning solutions, and data methodologies to drive business growth and inform strategic decisions. Proficient in collaborating with cross-functional teams to deliver data-driven projects and solutions.
+- Data analyst with a background in statistics and actuarial sciences, skilled in Python, Power BI, and SQL. Experienced in optimizing reporting, developing predictive models, and automating workflows to improve accuracy and efficiency. Proficient in ETL, cloud platforms (AWS, Azure), and data visualization, delivering solutions that reduce costs and enhance decision-making. Strong collaborator, refining reporting frameworks and driving business improvements through data-driven insights.
 
 ## Projects
 ### Permanent Residency Admissions
@@ -30,14 +30,14 @@
 
 ## Professional Experience
 **Jr. Analyst @ Canada Revenue Agency - Toronto, ON (May 2023 - Present)**
-- Developed and maintained advanced Power BI dashboards, utilizing data visualization, data cleaning, and ETL skills to streamline and optimize HR and IT reporting processes, resulting in a 30% reduction in reporting time and a 25% increase in data accuracy.
-- Conducted comprehensive data analysis, applying predictive analytics and statistical modeling techniques to inform strategic decisions regarding project statuses and resource utilization, which led to a 20% improvement in project delivery times and a 15% reduction in resource costs.
-- Facilitated stakeholder engagement sessions, leveraging communication and interpersonal skills to capture and address data reporting needs, improving stakeholder satisfaction by 25%
+- Built and maintained advanced Power BI dashboards, improving HR and IT reporting efficiency by 30% and enhancing data accuracy by 25%.
+- Applied predictive analytics and statistical modeling to assess project status and resource allocation, reducing project delivery times by 20% and cutting resource costs by 15%.
+- Led stakeholder engagement sessions to refine reporting processes, increasing stakeholder satisfaction by 25%.
 
 **Jr. Project Officer @ Canada Revenue Agency - Toronto, ON (Sep 2022 - May 2023)** 
-- Executed quality assurance for business architecture documentation, ensuring project accuracy and compliance, and utilizing data governance and documentation review skills, which resulted in a 95% compliance rate and a 20% reduction in project risks.
-- Managed subject matter expert (SME) efforts in transitioning to GCdocs, enhancing document management efficiency, and applying change management and data migration skills, which led to a 30% reduction in document processing time.
-- Successfully delivered 4 projects on time and within budget constraints, showcasing project planning, resource allocation, and project management skills, with a 100% project success rate and a 20% reduction in project costs.
+- Developed Power BI-driven what-if analyses for insurance and reinsurance ratios, improving data-driven decision-making.
+- Led the rollout of MS Planner for workflow tracking, increasing project visibility and team efficiency by 30%.
+- Identified process inefficiencies and automated workflows, cutting operational costs by 12%.
 
 **Sr. Systems Analyst @ Turkish Motor Insurers’ Bureau (TMTB) - Istanbul, Turkiye (Apr 2021 – Dec 2021)**
 - Designed and implemented what-if analysis for insurance/reinsurance ratios using Power BI, enhancing data-driven decision-making capabilities.
@@ -45,9 +45,9 @@
 - Implemented process improvements and automation, resulting in a 12% reduction in operational costs.
 
 **Foreign Trade Specialist @ Istanbul Exporters' Associations (IEA) - Istanbul, Turkiye (Jun 2015 – Mar 2021)**
-- Analyzed national export data using SQL, SAP, and Trade Map, producing insightful reports that contributed to a 25% increase in export sales and a 15% reduction in operational costs.
-- Collaborated with IT to deploy software solutions, enhancing operational efficiency, and reducing completion times by 40%.
-- Conducted market research and data analysis to inform strategic decisions, resulting in a 40% increase in trade fair attendance.
+- Analyzed national export data using SQL, SAP, and Trade Map, leading to a 25% rise in export sales and a 15% drop in operational costs.
+- Partnered with IT teams to implement software solutions, reducing process completion times by 40%.
+- Conducted market research and data analysis to guide trade strategies, increasing trade fair participation by 40%.
 
 ## Education
 - [Grad. Certificate in Business Intelligence at Algonquin College](https://www.algonquincollege.com/sat/program/business-intelligence-system-infrastructure/) <br>
