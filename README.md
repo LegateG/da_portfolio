@@ -1,5 +1,5 @@
 # Resume
-[PDF version](https://github.com/LegateG/da_portfolio/blob/main/resume_gorkemBayar.pdf) - [LinkedIn](https://www.linkedin.com/in/gorkemb/)
+[PDF version](https://github.com/LegateG/da_portfolio/blob/main/Resume_GorkemBayar.pdf) - [LinkedIn](https://www.linkedin.com/in/gorkemb/)
 #### Technical Skills: Python, SQL, DAX, Power BI, Tableau, ETL, AWS
 
 ## Professional Summary
