@@ -32,17 +32,17 @@
 **Jr. Analyst @ Canada Revenue Agency - Toronto, ON (May 2023 - Present)**
 - Built and maintained advanced Power BI dashboards, improving HR and IT reporting efficiency by 30% and enhancing data accuracy by 25%.
 - Applied predictive analytics and statistical modeling to assess project status and resource allocation, reducing project delivery times by 20% and cutting resource costs by 15%.
-- Led stakeholder engagement sessions to refine reporting processes, increasing stakeholder satisfaction by 25%.
+- Facilitated stakeholder engagement sessions to refine reporting processes, increasing stakeholder satisfaction by 25%.
 
 **Jr. Project Officer @ Canada Revenue Agency - Toronto, ON (Sep 2022 - May 2023)** 
-- Developed Power BI-driven what-if analyses for insurance and reinsurance ratios, improving data-driven decision-making.
-- Led the rollout of MS Planner for workflow tracking, increasing project visibility and team efficiency by 30%.
-- Identified process inefficiencies and automated workflows, cutting operational costs by 12%.
+- Conducted quality assurance documentation with MS Visio for business architecture, achieving a 95% compliance rate and reducing project risks by 20%.
+- Leveraged data governance and change management expertise as a Subject Matter Expert to implement a cloud storage solution, optimizing document management and reducing processing time by 30%.
+- Delivered four projects on schedule and within budget, improving cost efficiency by 20%.
 
 **Sr. Systems Analyst @ Turkish Motor Insurers’ Bureau (TMTB) - Istanbul, Turkiye (Apr 2021 – Dec 2021)**
-- Designed and implemented what-if analysis for insurance/reinsurance ratios using Power BI, enhancing data-driven decision-making capabilities.
-- Led the implementation of MS Planner to visualize workflow management metrics, improving project tracking and team productivity by 30%
-- Implemented process improvements and automation, resulting in a 12% reduction in operational costs.
+- Developed Power BI-driven what-if analyses for insurance and reinsurance ratios, improving data-driven decision-making.
+- Led the rollout of MS Planner for workflow tracking, increasing project visibility and team efficiency by 30%.
+- Identified process inefficiencies and automated workflows with MS Visio, cutting operational costs by 12%
 
 **Foreign Trade Specialist @ Istanbul Exporters' Associations (IEA) - Istanbul, Turkiye (Jun 2015 – Mar 2021)**
 - Analyzed national export data using SQL, SAP, and Trade Map, leading to a 25% rise in export sales and a 15% drop in operational costs.
@@ -50,8 +50,9 @@
 - Conducted market research and data analysis to guide trade strategies, increasing trade fair participation by 40%.
 
 ## Education
+- [Bachelor of Actuarial Sciences at Hacettepe University](https://aktuerya.hacettepe.edu.tr/en/) <br>
 - [Grad. Certificate in Business Intelligence at Algonquin College](https://www.algonquincollege.com/sat/program/business-intelligence-system-infrastructure/) <br>
-- [BSc in Actuarial Sciences at Hacettepe University](https://aktuerya.hacettepe.edu.tr/en/) <br>
+
 
 **Certificates**
 - [AWS Cloud Practitioner](https://www.credly.com/badges/64b9f71b-f5e9-4572-80bb-fd3727cfeb73?source=linked_in_profile)
