@@ -3,7 +3,7 @@
 #### Technical Skills: Python, SQL, DAX, Power BI, Tableau, ETL, AWS
 
 ## Professional Summary
-- Data analyst with a background in statistics and actuarial sciences, skilled in Python, Power BI, and SQL. Experienced in optimizing reporting, developing predictive models, and automating workflows to improve accuracy and efficiency. Proficient in ETL, cloud platforms (AWS, Azure), and data visualization, delivering solutions that reduce costs and enhance decision-making. Strong collaborator, refining reporting frameworks and driving business improvements through data-driven insights.
+Data analyst with a background in statistics and actuarial sciences, skilled in Python, Power BI, and SQL. Experienced in optimizing reporting, developing predictive models, and automating workflows to improve accuracy and efficiency. Proficient in ETL, cloud platforms (AWS, Azure), and data visualization, delivering solutions that reduce costs and enhance decision-making. Strong collaborator, refining reporting frameworks and driving business improvements through data-driven insights.
 
 ## Projects
 ### Permanent Residency Admissions
@@ -11,20 +11,19 @@
 - Skills/Tools: MS Power BI, MS Fabric, MS Excel, DAX, ETL
 - 📊[Dashboard](https://github.com/LegateG/IRCC-PRA/)
 ![PRA](/assets/img/PRA_cover.jpg)
-### Diabetes in the Pima Tribe
+### Diabetes Analysis with Python
 - Analyzing different aspects of Diabetes in the Pima tribe by doing Exploratory Data Analysis (EDA)
 - Skills/Tools: Python, numpy, scikit-learn, mathplotlib, model training and evaluation
 - 👨🏻‍💻[Jupyter Notebook](https://github.com/LegateG/EDA_Pima/) 
 ![EDA_Pima](/assets/img/eda_pima.jpg)
-### Water Scarcity Around the Globe
+### Water Scarcity
 - Exploring the global water scarcity and its determinants by countries
 - Skills/Tools: Tableau, data prep, ETL
 - 📉[Tableau Story](https://public.tableau.com/app/profile/gorkem.bayar/viz/WaterScarcityAroundtheGlobe/Story) 
-### HR Analytics for Agriculture and Agri-Food Canada (AAFC)
-- Conducted Exploratory Data Analysis (Capstone project for grad. certificate in business intelligence)
-- Findings influenced AAFC's hiring strategies
+### HR Analytics for AAFC
+- Conducted Exploratory Data Analysis (Capstone project for grad. certificate in business intelligence) that produces findings that influenced Agriculture and Agri-Food Canada's (AAFC) hiring strategies
 - Skills/Tools: MS Power BI, MS Fabric, MS Excel, DAX, ETL
-### Predictive Analytics for Insurance Premium Calculation
+### Insurance Premium Calculation
 - Linear regression model that predicts insurance premiums (Capstone project for BSc. in actuarial sciences)
 - Skills/Tools:IBM SPSS Modeler
 
