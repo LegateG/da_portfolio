@@ -28,7 +28,7 @@ Data analyst with a background in statistics and actuarial sciences, skilled in 
 - Skills/Tools:IBM SPSS Modeler
 
 ## Professional Experience
-**Jr. Analyst @ Canada Revenue Agency - Toronto, ON (May 2023 - Present)**
+**Jr. Analyst @ Canada Revenue Agency - Toronto, ON (May 2023 - Mar 2025)**
 - Built and maintained advanced Power BI dashboards, improving HR and IT reporting efficiency by 30% and enhancing data accuracy by 25%.
 - Applied predictive analytics and statistical modeling to assess project status and resource allocation, reducing project delivery times by 20% and cutting resource costs by 15%.
 - Facilitated stakeholder engagement sessions to refine reporting processes, increasing stakeholder satisfaction by 25%.
