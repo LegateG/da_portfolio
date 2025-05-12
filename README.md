@@ -28,25 +28,24 @@ Data analyst with a background in statistics and actuarial sciences, skilled in 
 - Skills/Tools:IBM SPSS Modeler
 
 ## Professional Experience
-**Jr. Analyst @ Canada Revenue Agency - Toronto, ON (May 2023 - Mar 2025)**
-- Built and maintained advanced Power BI dashboards, improving HR and IT reporting efficiency by 30% and enhancing data accuracy by 25%.
-- Applied predictive analytics and statistical modeling to assess project status and resource allocation, reducing project delivery times by 20% and cutting resource costs by 15%.
-- Facilitated stakeholder engagement sessions to refine reporting processes, increasing stakeholder satisfaction by 25%.
+**Data Analyst @ Canada Revenue Agency - Toronto, ON (May 2023 - Mar 2025)**
+- Engineered and maintained sophisticated, visually engaging Power BI dashboards for HR and IT reporting, achieving a 30% reduction in report loading times and a 25% improvement in data accuracy.
+- Integrated data from various systems like SonarQube, SQL Server, and SharePoint-based Excel, to provide comprehensive insights on project status and resource allocation, leading to a 20% decrease in project delivery times and a 15% reduction in resource costs.
+- Collaborated with stakeholders to refine reporting frameworks and to ensure user-centered design, resulting in a 25% increase in stakeholder satisfaction.
 
-**Jr. Project Officer @ Canada Revenue Agency - Toronto, ON (Sep 2022 - May 2023)** 
-- Conducted quality assurance documentation with MS Visio for business architecture, achieving a 95% compliance rate and reducing project risks by 20%.
-- Leveraged data governance and change management expertise as a Subject Matter Expert to implement a cloud storage solution, optimizing document management and reducing processing time by 30%.
-- Delivered four projects on schedule and within budget, improving cost efficiency by 20%.
+**Project Officer @ Canada Revenue Agency - Toronto, ON (Sep 2022 - May 2023)** 
+- Developed quality assurance documentation for business architecture using MS Visio, reaching a 95% compliance rate and mitigating project risks by 20%.
+- Applied data governance principles to the implementation of a cloud storage solution, optimizing document management and reducing processing time by 30%.
+- Successfully delivered four projects within established timelines and budgets, enhancing cost efficiency by 20%.
 
 **Sr. Systems Analyst @ Turkish Motor Insurers’ Bureau (TMTB) - Istanbul, Turkiye (Apr 2021 – Dec 2021)**
-- Developed Power BI-driven what-if analyses for insurance and reinsurance ratios, improving data-driven decision-making.
-- Led the rollout of MS Planner for workflow tracking, increasing project visibility and team efficiency by 30%.
-- Identified process inefficiencies and automated workflows with MS Visio, cutting operational costs by 12%
+- Applied Python (Pandas, NumPy) and Power BI for detailed quantitative analysis and statistical modeling of insurance ratios, generating actionable visualizations (Matplotlib, Seaborn) that enhanced data-driven decision-making.
+- Utilized advanced SQL on an Oracle database for ETL processes involving insurance policy, claims, and sales data, enabling thorough analysis and reporting on key performance indicators and trends.
+- Spearheaded the implementation of MS Planner for workflow tracking, boosting project visibility and team efficiency by 30%.
 
 **Foreign Trade Specialist @ Istanbul Exporters' Associations (IEA) - Istanbul, Turkiye (Jun 2015 – Mar 2021)**
-- Analyzed national export data using SQL, SAP, and Trade Map, leading to a 25% rise in export sales and a 15% drop in operational costs.
-- Partnered with IT teams to implement software solutions, reducing process completion times by 40%.
-- Conducted market research and data analysis to guide trade strategies, increasing trade fair participation by 40%.
+- Applied market research and data analysis using SQL, SAP, and Trade Map to analyze national export data, combined with visualized reports using Canva reflecting corporate identity, which informed trade strategies and resulted in a 40% increase in trade fair participation and a 15% reduction in operational costs.
+- Partnered with IT teams to implement SAP PCM on costs tracking, reducing process completion times by 40%.
 
 ## Education
 - [Bachelor of Actuarial Sciences at Hacettepe University](https://aktuerya.hacettepe.edu.tr/en/) <br>
