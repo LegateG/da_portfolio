@@ -3,7 +3,7 @@
 #### Technical Skills: Python, SQL, DAX, Power BI, Tableau, ETL, AWS
 
 ## Professional Summary
-Data analyst with a background in statistics and actuarial sciences, skilled in Python, Power BI, and SQL. Experienced in optimizing reporting, developing predictive models, and automating workflows to improve accuracy and efficiency. Proficient in ETL, cloud platforms (AWS, Azure), and data visualization, delivering solutions that reduce costs and enhance decision-making. Strong collaborator, refining reporting frameworks and driving business improvements through data-driven insights.
+Data professional with a robust background in data analysis, business intelligence, and visualization. Proficient in developing impactful Power BI dashboards and reports, integrating diverse data sources, and applying analytical techniques to support strategic decision-making. Possesses a strong technical foundation and a collaborative approach to delivering data solutions.
 
 ## Projects
 ### Permanent Residency Admissions
@@ -50,6 +50,7 @@ Data analyst with a background in statistics and actuarial sciences, skilled in 
 ## Education
 - [Bachelor of Actuarial Sciences at Hacettepe University](https://aktuerya.hacettepe.edu.tr/en/) <br>
 - [Grad. Certificate in Business Intelligence at Algonquin College](https://www.algonquincollege.com/sat/program/business-intelligence-system-infrastructure/) <br>
+- [College Diploma – Computer Programming and Analysis at Humber Polytechnic (ongoing, fully online)](https://appliedtechnology.humber.ca/programs/computer-programming-and-analysis.html) <br>
 
 
 **Certificates**
